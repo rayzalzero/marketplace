@@ -26,5 +26,9 @@
       "url": "https://github.com/rayzalzero/bb-plugin-theme-glass.git",
       "range": "^0.1.0"
     }
-  }
+  },
+  "screenshots": [
+    "./screenshots/theme-glass/overview-dark.png",
+    "./screenshots/theme-glass/finder-workspace.png"
+  ]
 }
